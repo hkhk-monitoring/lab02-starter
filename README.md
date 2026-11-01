@@ -1,4 +1,4 @@
-# Labor 2: Zabbix valvab
+# Praktikum 2: Zabbix valvab
 
 **Nimi:** _vastus_
 
